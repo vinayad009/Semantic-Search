@@ -1182,7 +1182,7 @@ customer stories /
 
 
 
-Propeller Speeds Sales Cycle with Digital Sales Rooms 
+Mindtickle Enabled Reps to Hone Their Sales Skills and Understand New Products 
 
 
 
@@ -1218,7 +1218,7 @@ Industry:
 
 
 
-Software Development 
+Artificial Intelligence 
 
 
 
@@ -1238,7 +1238,7 @@ Company Size:
 
 
 
-200+ 
+1-500 
 
 
 
@@ -1258,7 +1258,7 @@ Use case:
 
 
 
-Digital Sales Room, Sales Content Management 
+Onboarding and training, Sales Enablement, Sales Readiness 
 
 
 
@@ -1306,15 +1306,15 @@ Digital Sales Room, Sales Content Management
 
 
 
-							Drew Hultgren						
+							Sean Chu						
 
 
 
-							Senior Manager of Revenue Operations, Propeller						
+							Chief Strategy Officer						
 
 
 
-			“The team sees Mindtickle as a huge component of their deal process. It looks sharp and allows them to gain a good understanding of what their prospect is thinking and engaging with throughout the entire sales cycle. Mindtickle is the one-stop-content-shop for our entire organization.”		
+			The platform is very flexible and easy to tailor to the different needs we have across various teams from both a content provider’s and a learner’s perspective. It’s also quite simple to use – especially with its very powerful mobile platform.		
 
 
 
@@ -1358,123 +1358,17 @@ Download Full Case Study
 
 
 
-Challenges: 
-
-
-
-Difficulty sharing content with customers who spent most of their time out of the officeLacked visibility into when customers read and engaged with contentDecentralized content living in the CRM, Google Sheets, Google Drive, and website 
-
-
-
-Solution: 
-
-
-
-Mindtickle Digital Sales Rooms: Personalized digital experience with all content available in one, single shareable linkMindtickle’s Sales Content Management: Sales content curated, managed, and shared in a single locationOut-of-the-box CRM integration 
-
-
-
-Impact:
- 
-
-
-
-Reduced sales cycle Increased conversion rate at the top of funnelIncreased responsiveness between sales and prospectsEasier content management, access, and sharing 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Unable to share content with customers on the go 
-
-
-
-Founded in Sydney, Australia, Propeller is a global SaaS company that operates in the civil construction, earthworks, and mining space. Propeller helps customers track material quantities on job sites and has created a surveying solution that allows its customers to understand how a worksite is progressing as they’re working it in real-time.Drew Hultgren, Senior Manager of Revenue Operations at Propeller, explained, “Many of our customers are extremely busy. They’re out in the field at job sites moving the dirt themselves and are unable to attend meetings or read documents and e-mail attachments. Asking customers to read about our solutions and products on our timeline wasn’t going to work.”Propeller needed a solution that could easily bring all the relevant content together and enable their customers to review wherever and whenever they were. Propeller turned to Mindtickle. 
-
-
+In selecting a sales enablement solution, two considerations were paramount for Appier: flexibility and simplicity.
 
  
-“The team sees Mindtickle as a huge component of their deal process. It looks sharp and allows them to gain a good understanding of what their prospect is thinking and engaging with throughout the entire sales cycle. Mindtickle is the one-stop-content-shop for our entire organization.”
 
 
 
-Drew Hultgren
-Senior Manager of Revenue Operations, Propeller
-
-
+Thus, the company chose Mindtickle’s analytics-driven platform. “The platform is very flexible; easy to tailor to the different needs we have across various teams, from both a content provider’s and a learner’s perspective, it’s also quite simple to use – especially with its very powerful mobile platform.” says Sandy Tsai, Senior Manager at Appier.Mindtickle’s implementation was completed in less than a month, and Appier laid the organizational groundwork carefully.“We discussed the goals with all of the stakeholders, including the content creators,” says Sean. “We needed to organize and structure the content and find the right people to help us design the content. We also coordinated carefully with the sales leaders so they could convey this new direction to the reps.” 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-Speeding up deal cycles with a single link 
-
-
-
-Since Mindtickle provides buyer-centric enablement solutions, their Digital Sales Rooms were the perfect solution for Propeller. With a single link, reps could send the most up-to-date and relevant content to customers. “Our customers could easily view content on their mobile phone, without requiring any downloads since everything is embedded,” Hultgren explained. “For prospects, we’ve removed a lot of the barriers as our content is simple, accessible, and accurate. It’s made our process much more efficient and speeds up our deal cycles.”When selecting a revenue enablement platform, another differentiator was Mindtickle’sability to integrate quickly with HubSpot. Moreover, Mindtickle releases innovative features regularly, such as easy content bulk uploads, Digital Sales Room templates, and tracking of integrations to the CRM, which have ingrained Mindtickle into the Propeller sales ecosystem. 
-
-
-
-
-
-
-
-
-
-
-
-Single source of truth for all content
- 
-
-
-
-							As Propeller continued to integrate Mindtickle into its sales processes, the company recognized Mindtickle’s already invaluable role in managing content. Assets were living in the CRM, Google Sheets, and Google Drive and their teams didn’t know which content to use. It was difficult to send, and they had no insights into content engagement.						
-
-
-
-
-“Mindtickle has been an incredible tool to bridge the gap between marketing and sales.”
-
-
-
-Drew Hultgren
-Senior Manager of Revenue Operations, Propeller
-
-
-
-
-
-
-
-
-Now, they have better insights into how prospects are interacting with content via Digital Sales Rooms, such as content items viewed, for how long, and by whom. For Propeller, this gives invaluable intelligence that improves the sales process, optimizes training, and focuses content creation on what will be most successful.Ultimately, Propeller’s sales team loves the ability to create personalized content. 
-
-
-
- 
-
-
-
-“Mindtickle makes it simple for our sales and marketing teams to create customer short-form content and personalized digital sales rooms in minutes. They can record personalized videos, easily screen share resources, and duplicate Digital Sales Rooms, which gives us the opportunity to customize assets quickly and efficiently. It’s been huge for us,” Huntgren said.Propeller, faced the challenge of effectively sharing content with their busy, on-the-go customers. Mindtickle’s Digital Sales Rooms emerged as the perfect solution, providing a streamlined and mobile-friendly platform to deliver up-to-date content effortlessly. By integrating seamlessly with HubSpot and offering innovative features, Mindtickle became an integral part of Propeller’s sales ecosystem, speeding up deal cycles and simplifying content management. The ability to gain insights into content engagement has empowered Propeller to refine its sales process and create personalized, effective content, enhancing their overall customer experience and boosting efficiency. 
 
 
 

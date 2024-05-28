@@ -1182,7 +1182,7 @@ customer stories /
 
 
 
-Propeller Speeds Sales Cycle with Digital Sales Rooms 
+MongoDB Reduces Ramp Time by 45% 
 
 
 
@@ -1218,7 +1218,7 @@ Industry:
 
 
 
-Software Development 
+Computer Software 
 
 
 
@@ -1238,7 +1238,7 @@ Company Size:
 
 
 
-200+ 
+501 - 1,000 
 
 
 
@@ -1258,7 +1258,7 @@ Use case:
 
 
 
-Digital Sales Room, Sales Content Management 
+Onboarding and training, Sales Onboarding 
 
 
 
@@ -1306,15 +1306,19 @@ Digital Sales Room, Sales Content Management
 
 
 
-							Drew Hultgren						
+							Jeremy Powers						
 
 
 
-							Senior Manager of Revenue Operations, Propeller						
+							Regional Vice President, Australia & New Zealand at MongoDB						
 
 
 
-			“The team sees Mindtickle as a huge component of their deal process. It looks sharp and allows them to gain a good understanding of what their prospect is thinking and engaging with throughout the entire sales cycle. Mindtickle is the one-stop-content-shop for our entire organization.”		
+			When our CEO and CRO said ‘Hey! We need a common sales methodology, a common language within the team, a common way that we operate and process,’ we knew that in order to fix it at the source, we had to change the way we onboarded our new hires and evolved our programs to extend to tenured sellers.
+
+
+
+		
 
 
 
@@ -1323,7 +1327,7 @@ Digital Sales Room, Sales Content Management
 
 
  
-Download Full Case Study
+Request a Demo
 
 
 
@@ -1358,123 +1362,31 @@ Download Full Case Study
 
 
 
-Challenges: 
+MongoDB is the next-generation database that helps businesses transform their industries by harnessing the power of data. 
 
 
 
-Difficulty sharing content with customers who spent most of their time out of the officeLacked visibility into when customers read and engaged with contentDecentralized content living in the CRM, Google Sheets, Google Drive, and website 
+They are a global company with headquarters in the New York City and offices throughout North America, Europe and the Asia-Pacific region. Founded in 2007, MongoDB spent their first seven years creating a great product and gaining traction amongst developers with an open source model. From 2014 onwards, MongoDB steered their go-to-market plan towards enterprise sales and were geared up for a rapid expansion. To achieve go-to-market excellence while scaling, their seller’s development was critical. 
 
 
 
-Solution: 
+We’re scaling rapidly. How do we reduce ramp time and achieve our sales goals? 
 
 
 
-Mindtickle Digital Sales Rooms: Personalized digital experience with all content available in one, single shareable linkMindtickle’s Sales Content Management: Sales content curated, managed, and shared in a single locationOut-of-the-box CRM integration 
+In order to sustain MongoDB’s growth and aggressive hiring plans, it was necessary for them to establish a strong baseline of knowledge and message amongst the new hires. To achieve this, they needed a technology partner who could provide a comprehensive and an easy-to-implement onboarding solution.After concluding a successful pilot, MongoDB implemented a 30-60-90 day onboarding program on Mindtickle platform. 
 
 
 
-Impact:
- 
+Structured Onboarding Path 
 
 
 
-Reduced sales cycle Increased conversion rate at the top of funnelIncreased responsiveness between sales and prospectsEasier content management, access, and sharing 
+With Mindtickle, MongoDB deployed custom onboarding paths for new SDR’s, Corporate Sellers, Enterprise Sellers and Solution Architects.Baseline certification modules were assigned to the reps prior to the bootcamp on Mindtickle – setting a preface for the bootcamp. This enabled the reps to come to the bootcamp with a solid foundation which allowed subject matter experts to focus on complex topics around product and industry. As a result, the reps learned faster and the in-person sessions could be made more discussion and role-play oriented.The bootcamp was utilized to train the reps on the landscape, technology, product fundamentals and the sales methodology.After the first bootcamp, the remaining onboarding period was focused on reinforcing product and competition knowledge and selling skills. During this phase, reps worked with a Solution Architect, focused on pipeline generation, qualification, and relied on the Mindtickle platform to submit progress, practice and receive feedback from sales leaders.As the new hire batch size increased, greater was the challenge to track the performance of individual reps. Mindtickle addressed this problem by providing weekly reports to the leadership and managers at MongoDB to track the progress of the reps week on week.“The reps were able to take advantage of on-demand learning using the Mindtickle platform, throughout their onboarding period.” mentions PowersTo conclude the onboarding program, MongoDB organized an advanced bootcamp to reinforce key learning from the last 90 days and give pro-tips on competition, services and industry. During the advanced bootcamp, MongoDB used Mindtickle’s role-play capability extensively to assess the readiness of the new sales reps. 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Unable to share content with customers on the go 
-
-
-
-Founded in Sydney, Australia, Propeller is a global SaaS company that operates in the civil construction, earthworks, and mining space. Propeller helps customers track material quantities on job sites and has created a surveying solution that allows its customers to understand how a worksite is progressing as they’re working it in real-time.Drew Hultgren, Senior Manager of Revenue Operations at Propeller, explained, “Many of our customers are extremely busy. They’re out in the field at job sites moving the dirt themselves and are unable to attend meetings or read documents and e-mail attachments. Asking customers to read about our solutions and products on our timeline wasn’t going to work.”Propeller needed a solution that could easily bring all the relevant content together and enable their customers to review wherever and whenever they were. Propeller turned to Mindtickle. 
-
-
-
- 
-“The team sees Mindtickle as a huge component of their deal process. It looks sharp and allows them to gain a good understanding of what their prospect is thinking and engaging with throughout the entire sales cycle. Mindtickle is the one-stop-content-shop for our entire organization.”
-
-
-
-Drew Hultgren
-Senior Manager of Revenue Operations, Propeller
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Speeding up deal cycles with a single link 
-
-
-
-Since Mindtickle provides buyer-centric enablement solutions, their Digital Sales Rooms were the perfect solution for Propeller. With a single link, reps could send the most up-to-date and relevant content to customers. “Our customers could easily view content on their mobile phone, without requiring any downloads since everything is embedded,” Hultgren explained. “For prospects, we’ve removed a lot of the barriers as our content is simple, accessible, and accurate. It’s made our process much more efficient and speeds up our deal cycles.”When selecting a revenue enablement platform, another differentiator was Mindtickle’sability to integrate quickly with HubSpot. Moreover, Mindtickle releases innovative features regularly, such as easy content bulk uploads, Digital Sales Room templates, and tracking of integrations to the CRM, which have ingrained Mindtickle into the Propeller sales ecosystem. 
-
-
-
-
-
-
-
-
-
-
-
-Single source of truth for all content
- 
-
-
-
-							As Propeller continued to integrate Mindtickle into its sales processes, the company recognized Mindtickle’s already invaluable role in managing content. Assets were living in the CRM, Google Sheets, and Google Drive and their teams didn’t know which content to use. It was difficult to send, and they had no insights into content engagement.						
-
-
-
-
-“Mindtickle has been an incredible tool to bridge the gap between marketing and sales.”
-
-
-
-Drew Hultgren
-Senior Manager of Revenue Operations, Propeller
-
-
-
-
-
-
-
-
-Now, they have better insights into how prospects are interacting with content via Digital Sales Rooms, such as content items viewed, for how long, and by whom. For Propeller, this gives invaluable intelligence that improves the sales process, optimizes training, and focuses content creation on what will be most successful.Ultimately, Propeller’s sales team loves the ability to create personalized content. 
-
-
-
- 
-
-
-
-“Mindtickle makes it simple for our sales and marketing teams to create customer short-form content and personalized digital sales rooms in minutes. They can record personalized videos, easily screen share resources, and duplicate Digital Sales Rooms, which gives us the opportunity to customize assets quickly and efficiently. It’s been huge for us,” Huntgren said.Propeller, faced the challenge of effectively sharing content with their busy, on-the-go customers. Mindtickle’s Digital Sales Rooms emerged as the perfect solution, providing a streamlined and mobile-friendly platform to deliver up-to-date content effortlessly. By integrating seamlessly with HubSpot and offering innovative features, Mindtickle became an integral part of Propeller’s sales ecosystem, speeding up deal cycles and simplifying content management. The ability to gain insights into content engagement has empowered Propeller to refine its sales process and create personalized, effective content, enhancing their overall customer experience and boosting efficiency. 
 
 
 

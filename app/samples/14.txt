@@ -118,8 +118,6 @@ Sales Enablement Customer Success Stories | Mindtickle
 
 
 
-
-
  
  
 
@@ -1182,7 +1180,7 @@ customer stories /
 
 
 
-Propeller Speeds Sales Cycle with Digital Sales Rooms 
+PreSales Academy Sees 84% Increase in Student Enrollment Using Mindtickle for Sales Training 
 
 
 
@@ -1218,7 +1216,7 @@ Industry:
 
 
 
-Software Development 
+E-Learning Providers 
 
 
 
@@ -1238,7 +1236,7 @@ Company Size:
 
 
 
-200+ 
+<50 
 
 
 
@@ -1258,7 +1256,7 @@ Use case:
 
 
 
-Digital Sales Room, Sales Content Management 
+Onboarding and training 
 
 
 
@@ -1306,15 +1304,15 @@ Digital Sales Room, Sales Content Management
 
 
 
-							Drew Hultgren						
+							Mattie Stremic						
 
 
 
-							Senior Manager of Revenue Operations, Propeller						
+							Head of the Academy						
 
 
 
-			“The team sees Mindtickle as a huge component of their deal process. It looks sharp and allows them to gain a good understanding of what their prospect is thinking and engaging with throughout the entire sales cycle. Mindtickle is the one-stop-content-shop for our entire organization.”		
+			My experience with Mindtickle and the team has been nothing short of amazing. From incredible customer service to the overall functionality and power of the platform, we’ve been able to successfully train hundreds of individuals through our PreSales Academy and PreSales Collective enablement programs. Since we deployed both online and live training, it was important we utilized a solution that could accommodate both methods effectively and allow us to deliver high-quality content.		
 
 
 
@@ -1358,123 +1356,72 @@ Download Full Case Study
 
 
 
-Challenges: 
+About PreSales Academy: 
 
 
 
-Difficulty sharing content with customers who spent most of their time out of the officeLacked visibility into when customers read and engaged with contentDecentralized content living in the CRM, Google Sheets, Google Drive, and website 
 
-
-
-Solution: 
-
-
-
-Mindtickle Digital Sales Rooms: Personalized digital experience with all content available in one, single shareable linkMindtickle’s Sales Content Management: Sales content curated, managed, and shared in a single locationOut-of-the-box CRM integration 
-
-
-
-Impact:
+The PreSales Collective focuses on building a community for people within presales and providing training for career changers through PreSales Academy.
+The academy offers a training program to equip career changers with the knowledge and resources needed for their job search.
+Detailed one-on-one coaching is provided by experienced sales engineers who volunteer as Career Advisors.
  
 
 
 
-Reduced sales cycle Increased conversion rate at the top of funnelIncreased responsiveness between sales and prospectsEasier content management, access, and sharing 
+The challenges: 
 
 
 
 
+Growing demand for PreSales Academy led to re-evaluating their current processes.
 
+The virtual training sessions scheduled at specific dates and times were inflexible and inconvenient for students, trainers, and volunteer coaches.
+Coaches provided feedback in a single document with over 10 parameters, which became overwhelming for students to understand.
 
-
-
-
-
-
-
-
-
-
-Unable to share content with customers on the go 
-
-
-
-Founded in Sydney, Australia, Propeller is a global SaaS company that operates in the civil construction, earthworks, and mining space. Propeller helps customers track material quantities on job sites and has created a surveying solution that allows its customers to understand how a worksite is progressing as they’re working it in real-time.Drew Hultgren, Senior Manager of Revenue Operations at Propeller, explained, “Many of our customers are extremely busy. They’re out in the field at job sites moving the dirt themselves and are unable to attend meetings or read documents and e-mail attachments. Asking customers to read about our solutions and products on our timeline wasn’t going to work.”Propeller needed a solution that could easily bring all the relevant content together and enable their customers to review wherever and whenever they were. Propeller turned to Mindtickle. 
-
-
-
- 
-“The team sees Mindtickle as a huge component of their deal process. It looks sharp and allows them to gain a good understanding of what their prospect is thinking and engaging with throughout the entire sales cycle. Mindtickle is the one-stop-content-shop for our entire organization.”
-
-
-
-Drew Hultgren
-Senior Manager of Revenue Operations, Propeller
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Speeding up deal cycles with a single link 
-
-
-
-Since Mindtickle provides buyer-centric enablement solutions, their Digital Sales Rooms were the perfect solution for Propeller. With a single link, reps could send the most up-to-date and relevant content to customers. “Our customers could easily view content on their mobile phone, without requiring any downloads since everything is embedded,” Hultgren explained. “For prospects, we’ve removed a lot of the barriers as our content is simple, accessible, and accurate. It’s made our process much more efficient and speeds up our deal cycles.”When selecting a revenue enablement platform, another differentiator was Mindtickle’sability to integrate quickly with HubSpot. Moreover, Mindtickle releases innovative features regularly, such as easy content bulk uploads, Digital Sales Room templates, and tracking of integrations to the CRM, which have ingrained Mindtickle into the Propeller sales ecosystem. 
-
-
-
-
-
-
-
-
-
-
-
-Single source of truth for all content
+The lack of standardized feedback hindered the students’ ability to improve effectively.
  
 
 
 
-							As Propeller continued to integrate Mindtickle into its sales processes, the company recognized Mindtickle’s already invaluable role in managing content. Assets were living in the CRM, Google Sheets, and Google Drive and their teams didn’t know which content to use. It was difficult to send, and they had no insights into content engagement.						
+The solutions:
+ 
 
 
 
 
-“Mindtickle has been an incredible tool to bridge the gap between marketing and sales.”
+Virtual training delivery: Mindtickle allows PreSales Academy to deliver the self-paced training phase virtually, enabling students to learn at their own convenience. This eliminates the need for scheduled training sessions and provides flexibility in learning.
+Personalized recommendations: As learners complete training, Mindtickle recommends additional content and training based on their performance. This personalized approach helps students reinforce knowledge gaps and further enhance skills.
+Resource library: PreSales uses Mindtickle to deliver a resource library to students. This library enables students to browse and access all available content, empowering them to self-serve their learning needs.
+Virtual role-plays and coaching: Mindtickle’s virtual role-plays simulate interview scenarios. Students submit their responses, which are recorded and scored by Mindtickle’s AI-powered system. This feedback helps students perfect their pitch. Additionally, Mindtickle’s coaching forms facilitate quantitative and qualitative feedback from presales experts, streamlining the coaching process.
+Progress monitoring and evaluation: Stremic, along with PreSales experts, monitors students’ progress through Mindtickle’s comprehensive dashboards and reports. The system provides role-play and coaching scores, evaluating and tracking student performance as they progress through each phase.
+ 
 
 
 
-Drew Hultgren
-Senior Manager of Revenue Operations, Propeller
+The impact: 
 
 
 
 
-
-
-
-
-Now, they have better insights into how prospects are interacting with content via Digital Sales Rooms, such as content items viewed, for how long, and by whom. For Propeller, this gives invaluable intelligence that improves the sales process, optimizes training, and focuses content creation on what will be most successful.Ultimately, Propeller’s sales team loves the ability to create personalized content. 
-
-
+Mindtickle enabled PreSales Academy to scale its training program, resulting in an 84% increase in student enrollment in two years.
+Students’ scores in demo role-plays increased by an average of 22% due to targeted training and learning.
+PreSales Academy received a 95% average student satisfaction rating and five-star reviews from graduates on review sites.
+Graduates of PreSales Academy experienced an average salary increase of $80,000, with a median salary exceeding $118,000.
 
  
 
 
 
-“Mindtickle makes it simple for our sales and marketing teams to create customer short-form content and personalized digital sales rooms in minutes. They can record personalized videos, easily screen share resources, and duplicate Digital Sales Rooms, which gives us the opportunity to customize assets quickly and efficiently. It’s been huge for us,” Huntgren said.Propeller, faced the challenge of effectively sharing content with their busy, on-the-go customers. Mindtickle’s Digital Sales Rooms emerged as the perfect solution, providing a streamlined and mobile-friendly platform to deliver up-to-date content effortlessly. By integrating seamlessly with HubSpot and offering innovative features, Mindtickle became an integral part of Propeller’s sales ecosystem, speeding up deal cycles and simplifying content management. The ability to gain insights into content engagement has empowered Propeller to refine its sales process and create personalized, effective content, enhancing their overall customer experience and boosting efficiency. 
+
+
+
+
+The vision for PreSales Academy: 
+
+
+
+With the successful growth and demand, PreSales Academy plans to scale the organization further and continue refining the program using online training, role-plays, and coaching through the Mindtickle platform.
+ 
 
 
 

@@ -1182,7 +1182,7 @@ customer stories /
 
 
 
-Propeller Speeds Sales Cycle with Digital Sales Rooms 
+Talview Increases Sales Efficiency with Mindtickle 
 
 
 
@@ -1306,15 +1306,15 @@ Digital Sales Room, Sales Content Management
 
 
 
-							Drew Hultgren						
+							Amy Wood						
 
 
 
-							Senior Manager of Revenue Operations, Propeller						
+							Director of Marketing, Talview						
 
 
 
-			“The team sees Mindtickle as a huge component of their deal process. It looks sharp and allows them to gain a good understanding of what their prospect is thinking and engaging with throughout the entire sales cycle. Mindtickle is the one-stop-content-shop for our entire organization.”		
+			“What it all comes down to is that Mindtickle has really been a partner to us. Along with all the enhancements they’ve made based on our feedback, using them as our single source of content has been a success with our sales teams. We’re now extending the digital sales room to be a customer relationship tool with our Customer Success team.”		
 
 
 
@@ -1362,7 +1362,7 @@ Challenges:
 
 
 
-Difficulty sharing content with customers who spent most of their time out of the officeLacked visibility into when customers read and engaged with contentDecentralized content living in the CRM, Google Sheets, Google Drive, and website 
+Searched multiple places for sales content on personal computers, Google Drive, Google Sheets, Jira, and Wiki boardLacked tracking data and analytics into content effectiveness and usageManually requested customer references and testimonials 
 
 
 
@@ -1370,7 +1370,7 @@ Solution:
 
 
 
-Mindtickle Digital Sales Rooms: Personalized digital experience with all content available in one, single shareable linkMindtickle’s Sales Content Management: Sales content curated, managed, and shared in a single locationOut-of-the-box CRM integration 
+Mindtickle Sales Content Management to curate, manage, and track sales content and assetsReference Management to Request, review, and approve customer testimonials and references Mindtickle’s Digital Sales Rooms for sharing content with customers via a personalized online web pageInsights into seller and buyer behaviorsIntegration with CRM systems (HubSpot and Salesforce) 
 
 
 
@@ -1379,7 +1379,7 @@ Impact:
 
 
 
-Reduced sales cycle Increased conversion rate at the top of funnelIncreased responsiveness between sales and prospectsEasier content management, access, and sharing 
+Centralized all sales assets – documents, training materials, videos, and more – into a single content libraryOnboarded over 40 sales, marketing, and customer success usersCurated, tracked, and managed 200+ sales collateral assets, training, and videosTripled the company’s customer references in six months 
 
 
 
@@ -1395,25 +1395,21 @@ Reduced sales cycle Increased conversion rate at the top of funnelIncreased res
 
 
 
-Unable to share content with customers on the go 
+Inefficient content management for sales and marketing 
 
 
 
-Founded in Sydney, Australia, Propeller is a global SaaS company that operates in the civil construction, earthworks, and mining space. Propeller helps customers track material quantities on job sites and has created a surveying solution that allows its customers to understand how a worksite is progressing as they’re working it in real-time.Drew Hultgren, Senior Manager of Revenue Operations at Propeller, explained, “Many of our customers are extremely busy. They’re out in the field at job sites moving the dirt themselves and are unable to attend meetings or read documents and e-mail attachments. Asking customers to read about our solutions and products on our timeline wasn’t going to work.”Propeller needed a solution that could easily bring all the relevant content together and enable their customers to review wherever and whenever they were. Propeller turned to Mindtickle. 
+Based in San Mateo, CA, Talview offers an end-to-end AI-powered hiring and proctoring solution. With a mission to ensure every person can achieve their best career, the company provides organizations with digital tools to make more efficient, informed decisions throughout the lifecycle of their talent, from recruiting to credentialing. Yet, the company’s sales team was unable to find and share content with their customers. They needed an easier way to curate and manage marketing collateral for a sales team located in the United States, United Kingdom, and India. At the time, sales collateral was saved on personal computers or in different folders on Google Drive. There was also a Google Sheet, Jira board, and wiki set up to share links to the sales collateral. Sales spent valuable time searching for content, requesting content from marketing, or using outdated collateral. According to Amy Wood, Director of Marketing at Talview, “We were seeking a straightforward tool that could be used by our sales teams across several time zones. We needed a single source of truth that all of our stakeholders – sales, customer success, marketing, executives – could use.” 
 
 
 
  
-“The team sees Mindtickle as a huge component of their deal process. It looks sharp and allows them to gain a good understanding of what their prospect is thinking and engaging with throughout the entire sales cycle. Mindtickle is the one-stop-content-shop for our entire organization.”
+“What it all comes down to is that Mindtickle has really been a partner to us. Along with all the enhancements they’ve made based on our feedback, using them as our single source of content has been a success with our sales teams. We’re now extending the digital sales room to be a customer relationship tool with our Customer Success team.”
 
 
 
-Drew Hultgren
-Senior Manager of Revenue Operations, Propeller
-
-
-
-
+Amy Wood
+Director of Marketing, Talview
 
 
 
@@ -1426,38 +1422,15 @@ Senior Manager of Revenue Operations, Propeller
 
 
 
-Speeding up deal cycles with a single link 
-
-
-
-Since Mindtickle provides buyer-centric enablement solutions, their Digital Sales Rooms were the perfect solution for Propeller. With a single link, reps could send the most up-to-date and relevant content to customers. “Our customers could easily view content on their mobile phone, without requiring any downloads since everything is embedded,” Hultgren explained. “For prospects, we’ve removed a lot of the barriers as our content is simple, accessible, and accurate. It’s made our process much more efficient and speeds up our deal cycles.”When selecting a revenue enablement platform, another differentiator was Mindtickle’sability to integrate quickly with HubSpot. Moreover, Mindtickle releases innovative features regularly, such as easy content bulk uploads, Digital Sales Room templates, and tracking of integrations to the CRM, which have ingrained Mindtickle into the Propeller sales ecosystem. 
 
 
 
 
+From content management to buyer-centric enablement 
 
 
 
-
-
-
-
-Single source of truth for all content
- 
-
-
-
-							As Propeller continued to integrate Mindtickle into its sales processes, the company recognized Mindtickle’s already invaluable role in managing content. Assets were living in the CRM, Google Sheets, and Google Drive and their teams didn’t know which content to use. It was difficult to send, and they had no insights into content engagement.						
-
-
-
-
-“Mindtickle has been an incredible tool to bridge the gap between marketing and sales.”
-
-
-
-Drew Hultgren
-Senior Manager of Revenue Operations, Propeller
+For Talview, Mindtickle not only provided a streamlined solution to curate, manage, and share content with sales, but also addressed other needs for the sales and marketing teams. “We quickly discovered that Mindtickle was more than a content repository,” explained Wood. “For example, Digital Sales Rooms could empower our sales team to create digital experiences with content tailored to our customers’ needs. Instead of sending an email with multiple attachments, our sales reps can send a single link and know when the customer viewed or shared the link. That’s very powerful.” The ability to share a piece of content with a prospect and analyze data from those shares, was a significant value proposition. The marketing team gained visibility into who engaged with content, for how long, content gaps, and more. The team could make data-driven decisions on how to improve content. Moreover, the deal room activity integrated with the company’s Salesforce instance, providing sales with more intelligence on prospects. Talview’s sales, marketing and customer service teams benefitted from these additional offerings from Mindtickle: Customer reference management – At the time, the company was aggressively pursuing a customer advocacy program. Typically, the process required a 30-60 minute conference call and multiple email exchanges to finalize a single quote. With Mindtickle, the customer marketing team could send a single link requesting video, audio or text-based testimonials, and customers could respond at their leisure.Customer support – Since Talview’s sales team is split across three regions, onboarding sales on a new sales enablement tool required coordination. Mindtickle helped the company with training, scheduling across multiple time zones, and implementation.  
 
 
 
@@ -1466,15 +1439,33 @@ Senior Manager of Revenue Operations, Propeller
 
 
 
-Now, they have better insights into how prospects are interacting with content via Digital Sales Rooms, such as content items viewed, for how long, and by whom. For Propeller, this gives invaluable intelligence that improves the sales process, optimizes training, and focuses content creation on what will be most successful.Ultimately, Propeller’s sales team loves the ability to create personalized content. 
 
 
 
- 
+Empowering sales and marketing 
 
 
 
-“Mindtickle makes it simple for our sales and marketing teams to create customer short-form content and personalized digital sales rooms in minutes. They can record personalized videos, easily screen share resources, and duplicate Digital Sales Rooms, which gives us the opportunity to customize assets quickly and efficiently. It’s been huge for us,” Huntgren said.Propeller, faced the challenge of effectively sharing content with their busy, on-the-go customers. Mindtickle’s Digital Sales Rooms emerged as the perfect solution, providing a streamlined and mobile-friendly platform to deliver up-to-date content effortlessly. By integrating seamlessly with HubSpot and offering innovative features, Mindtickle became an integral part of Propeller’s sales ecosystem, speeding up deal cycles and simplifying content management. The ability to gain insights into content engagement has empowered Propeller to refine its sales process and create personalized, effective content, enhancing their overall customer experience and boosting efficiency. 
+With 40 sales, marketing, and customer success users, Talview now has meaningful insights into the buyer journey, customer experience, and sales onboarding process. “Before Mindtickle, we had no insight into how our content was being used by sales, and we were relying solely on sales sentiment,” explained Wood. Because of Mindtickle, Talview’s sales team creates digital buying experiences tailored to their customer’s needs and sales journey. Buyers are empowered to navigate the buying journey to make buying decisions.  
+
+
+
+
+“Mindtickle reframes the conversations I have with my sales and executive teams. I can share data on how sellers and buyers are engaging with our content throughout the buying process and make smarter decisions as a result.” 
+
+
+
+Amy Wood
+Director of Marketing, Talview
+
+
+
+
+
+
+
+
+Mindtickle revolutionized Talview sales and marketing operations. With the ability to easily curate, manage, and track sales content and assets, alongside Reference Management for customer testimonials, and Digital Sales Rooms for personalized content sharing, Talview experienced a significant transformation. Combined with insights into seller and buyer behaviors and CRM integration, centralized assets, onboarded teams, and tripled customer references, marking a remarkable success story for Talview growth and customer engagement. 
 
 
 
