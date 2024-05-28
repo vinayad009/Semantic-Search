@@ -41,11 +41,69 @@ async def upload_file(file: UploadFile = File(...)):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.get("/docs", response_model=SearchResults)
-async def search_docs(q: str):
-    try:
-        query_embedding = model.encode(q, convert_to_tensor=True)
-        results = search_documents(query_embedding.numpy())
-        return SearchResults(filenames=results)
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+# app.py
+from fastapi import FastAPI, File, UploadFile, HTTPException
+from fastapi.responses import HTMLResponse
+import shutil
+from sentence_transformers import SentenceTransformer
+from app.database import save_document_embedding, search_documents
+
+app = FastAPI()
+
+# Load pre-trained SentenceTransformer model
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+# HTML content for the web interface
+html_content = """
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Document Semantic Search</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      $('#search-form').submit(function(event){
+        event.preventDefault();
+        var formData = new FormData();
+        formData.append('query', $('#search-input').val());
+        $.ajax({
+          type: 'GET',
+          url: '/docs',
+          data: formData,
+          processData: false,
+          contentType: false,
+          success: function(response) {
+            $('#search-results').empty();
+            response.filenames.forEach(function(filename) {
+              $('#search-results').append('<li>' + filename + '</li>');
+            });
+          },
+          error: function(xhr, status, error) {
+            alert('Error: ' + status + '\nMessage: ' + error);
+          }
+        });
+      });
+    });
+  </script>
+</head>
+<body>
+  <h1>Document Semantic Search</h1>
+  <form id="search-form">
+    <input type="text" id="search-input" placeholder="Enter your search query...">
+    <button type="submit">Search</button>
+  </form>
+  <ul id="search-results"></ul>
+</body>
+</html>
+"""
+
+@app.get("/", response_class=HTMLResponse)
+async def read_root():
+    return HTMLResponse(content=html_content, status_code=200)
+
+@app.get("/docs", response_model=list)
+async def search_docs(query: str):
+    query_embedding = model.encode(query)
+    results = search_documents(query_embedding)
+    return results
+
